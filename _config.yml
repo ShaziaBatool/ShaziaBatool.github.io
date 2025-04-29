@@ -1,0 +1,20 @@
+title: Shazia Batool
+description: Researcher | PhD Scholar | AI Enthusiast
+theme: jekyll-theme-minimal
+
+# Personal information
+author:
+  name: Shazia Batool
+  email: sbatool566@gmail.com
+  location: North Sydney, Australia
+  linkedin: https://www.linkedin.com/in/shazia-batool-879654177/
+  orcid: https://orcid.org/0000-0002-0066-147X
+
+# Profile Picture
+profile_picture: /Picture.jpeg
+
+# CV link
+cv_link: /Curriculum Vitae of Shazia Batool
+
+# Build settings
+markdown: kramdown
